@@ -1,6 +1,6 @@
 <?php
 
-echo "empurrar";
+echo "puxar";
 
 
 
